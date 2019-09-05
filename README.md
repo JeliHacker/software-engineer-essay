@@ -1,0 +1,2 @@
+# software-engineer-essay
+Write an essay that draws from both the syllabus and the video. In the video, Mayuko describes abilities that all software engineers should have. Describe what elements of the syllabus reflect what Mayuko thought was important. Be sure to use an HTML list when discussing each element. *If you want to go farther, perhaps propose additional elements that should be added to the syllabus, put your essay into an HTML table format, or come up with something else entirely.
